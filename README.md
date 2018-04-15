@@ -9,6 +9,6 @@
 
 android alarm manager daum map mysql http(safeasynctask) 
 
-<img src = './img/splash.jpg' width = '600' height = '450' />
-<img src = './img/promise.jpg' width = '600' height = '450' />
-<img src = './img/main.jpg' width = '600' height = '450' />
+<img src = './img/splash.jpg' width = '300' height = '450' />
+<img src = './img/promise.jpg' width = '300' height = '450' />
+<img src = './img/main.jpg' width = '300' height = '450' />
